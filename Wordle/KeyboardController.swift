@@ -27,7 +27,7 @@ class KeyboardController: NSObject,
 
   func collectionView(_ collectionView: UICollectionView,
                       numberOfItemsInSection section: Int) -> Int {
-    // Exercise 1: Return the correct number of items in a section
+    // Exercise 1: Return the correct number of items in a sectxmark.binion
     // Tip: There's a helper method you can use located in this class
     // START YOUR CODE HERE
     return numItems(in: section)
