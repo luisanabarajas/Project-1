@@ -25,10 +25,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Luisana Barajas | Loom - 18 September 2023 - Watch Video
-
-<div style="position: relative; padding-bottom: 64.74820143884892%; height: 0;"><iframe src="https://www.loom.com/embed/3681445b671d4946b76d6f7b708d5b7f?sid=fd887f65-bc24-4935-bf63-a1a2feedb6ac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div>
+    <a href="https://www.loom.com/share/3681445b671d4946b76d6f7b708d5b7f">
+      <p>Luisana Barajas | Loom - 18 September 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/3681445b671d4946b76d6f7b708d5b7f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3681445b671d4946b76d6f7b708d5b7f-with-play.gif">
+    </a>
+  </div>
+  
 ## Notes
 
 At the beginning I did not understand if I needed to modify the code I was provided. Then I understood I needed to add code between the comment lines of "start your code here" and "end your code here."
